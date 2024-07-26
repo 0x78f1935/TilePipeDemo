@@ -28,7 +28,7 @@ Which basically means
 Change all pixels that are #ffea4a (Yellow) to #ff0000 (Red).
 
 One additional sidenote. Transparancy is supported and can be utilized only as value.
-'#ffea4a': 'transparant', 
+'#ffea4a': 'transparent', 
 """
 
 TRANSPILE: List[Dict[str, str]] = [
