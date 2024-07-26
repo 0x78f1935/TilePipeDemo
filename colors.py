@@ -33,7 +33,7 @@ One additional sidenote. Transparancy is supported and can be utilized only as v
 
 TRANSPILE: List[Dict[str, str]] = [
     {
-        'filename': 'default',  # if default, a UUID will be used.
+        'filename': 'inStone',  # if default, a UUID will be used.
         '#ffea4a': '#321623',   # Void: Yellow
         '#320a46': '#283405',   # Darkest: Dark-Purple
         '#551937': '#3c6e14',   # Darker: Brown-Purple
