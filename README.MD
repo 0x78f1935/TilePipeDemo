@@ -47,7 +47,7 @@ Open `colors.py` and find `TRANSPILE` variable. It's an array with dictionary it
 Each object in the array represents a new texture. A new output. A new file basically.
 Each object has key and values. The key (left variable) represents the color in the template.
 The value of the dicationary represents the new color we would like to change it is.
-Please note, each color has to be a [hex](https://www.color-hex.com/) color with one exception "`Transparant`".
+Please note, each color has to be a [hex](https://www.color-hex.com/) color with one exception "`transparent`".
 
 Once you have configured your colors, simply run
 ```sh
